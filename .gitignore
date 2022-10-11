@@ -132,3 +132,7 @@ dmypy.json
 # Model file
 *.ckpt
 *.pt
+/output/2022-10/
+/output/adobe/
+/input/home_videos/
+/input/music_videos/
